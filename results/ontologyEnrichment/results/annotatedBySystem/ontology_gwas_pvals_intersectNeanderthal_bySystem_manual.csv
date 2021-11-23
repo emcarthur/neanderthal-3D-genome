@@ -1,0 +1,298 @@
+label,enr,p,Systems
+Exhaled nitric oxide output,29.63621546,0.000695999,respiratory
+Exhaled nitric oxide levels,29.63621546,0.000695999,respiratory
+Iron status biomarkers (ferritin levels),26.53599165,0.001631997,hematologic
+Chronic obstructive pulmonary disease,13.3532029,0.002489995,respiratory
+Cannabis use,16.1987041,0.002561995,psychiatric
+Cognitive ability,8.62024378,0.002793994,nervous
+Iris color (a* coordinate),24.30192714,0.003191994,integumentary
+Intelligence (MTAG),5.225643277,0.005387989,nervous
+Intelligence,10.33833939,0.005983988,nervous
+Ankylosing spondylitis,9.487170973,0.007203986,immune
+Food allergy,15.81302677,0.007489985,immune
+Type 1 diabetes,8.660558086,0.01008598,endocrine
+General cognitive ability,4.557277574,0.010343979,nervous
+Inflammatory bowel disease,5.660741429,0.012569975,immune
+Erosive tooth wear (severe vs non-severe),7.443060587,0.012943974,skeleton
+Experiencing mood swings,6.419858763,0.013309973,psychiatric
+Inflammatory bowel disease (early onset),46.48208116,0.01512597,immune
+Body fat percentage,18.89273461,0.015307969,digestive
+Extremely high intelligence,18.1547511,0.016177968,nervous
+Educational attainment,12.52016641,0.016381967,nervous
+Alzheimer's disease biomarkers,10.55854714,0.020393959,nervous
+Methadone dose in opioid dependence,5.660890043,0.021201958,psychiatric
+Crohn's disease,4.812474841,0.022275955,immune
+Gastric adenocarcinoma (histologically verified),34.17634997,0.022479955,digestive
+Delirium,11.67215258,0.023509953,psychiatric
+Asthma and hay fever,9.543714986,0.025263949,immune
+Binge eating behaviour and bipolar disorder,36.92762186,0.026707947,psychiatric
+Hippocampal atrophy,9.362945208,0.028223944,nervous
+Graves' disease,10.65984437,0.029253941,endocrine
+Milk allergy,33.44705331,0.029507941,immune
+Response to methotrexate in juvenile idiopathic arthritis,6.873198649,0.030323939,immune
+Nose morphology,8.144118318,0.032231936,skeleton
+Obesity (extreme),7.264115993,0.032295935,endocrine
+Clinical laboratory measurements,29.4654959,0.033515933,hematologic
+Mitochondrial DNA levels,6.960298458,0.033751932,none
+Age-related hearing impairment,8.468404383,0.034039932,nervous
+Iron status biomarkers (transferrin levels),25.30236324,0.03498393,hematologic
+Weight,8.144980656,0.043501913,endocrine
+Number of children ever born,22.02449123,0.044541911,reproductive
+Irritable bowel syndrome,8.400890494,0.045873908,digestive
+Insomnia (caffeine-induced),21.30923969,0.045991908,psychiatric
+Glucose homeostasis traits,4.425901556,0.046301907,endocrine
+Hepcidin/ferritin ratio,6.074780549,0.047591905,hematologic
+Pediatric autoimmune diseases,6.400778335,0.047645905,immune
+Nasopharyngeal carcinoma (SNP x SNP interaction),3.624834466,0.048647903,respiratory
+Cocaine dependence,17.3472574,0.049379901,psychiatric
+Sedentary behaviour duration,19.59708395,0.049707901,psychiatric
+Reading and spelling,18.24950726,0.053657893,nervous
+Hematological parameters,13.07189542,0.05496589,hematologic
+Body mass index in physically active individuals,3.881435096,0.055377889,endocrine
+Melanoma,5.808853855,0.057513885,integumentary
+Hematology traits,9.421518749,0.057885884,hematologic
+Response to fenofibrate (total cholesterol levels),5.814190112,0.058373883,hematologic
+Obsessive-compulsive disorder or autism spectrum disorder,16.28452319,0.059425881,psychiatric
+Familial squamous cell lung carcinoma,5.050275493,0.059499881,integumentary
+Liver fibrosis in pediatric non-alcoholic fatty acid liver disease,15.68676664,0.061847876,digestive
+Lipoprotein-associated phospholipase A2 activity and mass,12.81886938,0.062415875,hematologic
+Hand grip strength,2.893405495,0.062983874,skeletal muscle
+Mitral valve prolapse,12.48813627,0.063283873,cardiovascular
+Mean arterial pressure (alcohol consumption interaction),14.97813193,0.06493587,cardiovascular
+Body mass index (joint analysis main effects and physical activity interaction),3.423266344,0.069389861,endocrine
+Appendicular lean mass,13.75175335,0.07015586,endocrine
+Anorexia nervosa,4.439196328,0.074109852,psychiatric
+BMI (adjusted for smoking behaviour),3.111245701,0.07503585,endocrine
+Body mass index (joint analysis main effects and smoking interaction),3.104876519,0.07519185,endocrine
+White matter integrity,12.83038235,0.075427849,nervous
+Response to mTOR inhibitor (everolimus),12.51783792,0.076531847,none
+Obsessive-compulsive symptoms,12.20703125,0.078637843,psychiatric
+Body mass index in asthmatics,12.23002226,0.078777842,endocrine
+Hepcidin levels,11.83936352,0.081309837,hematologic
+Adverse response to chemotherapy (neutropenia/leucopenia) (all antimicrotubule drugs),11.6713352,0.082387835,immune
+Chemerin levels,10.24401237,0.084223832,none
+Total bilirubin levels,6.453861345,0.084545831,hematologic
+QT interval,3.165638889,0.086091828,cardiovascular
+Eye color,9.813927927,0.087551825,integumentary
+Laryngeal squamous cell carcinoma,9.827430324,0.088617823,respiratory
+Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid),4.394677167,0.089179822,hematologic
+Cardiac structure and function,9.971680428,0.089347821,cardiovascular
+Cognitive ability (MTAG),4.070020635,0.089569821,nervous
+Response to exercise (triglyceride level interaction),10.47603084,0.090825818,endocrine
+"Bone mineral density (paediatric, skull)",8.617866561,0.090873818,skeleton
+Pulmonary function,4.221867585,0.090943818,respiratory
+Superior frontal gyrus grey matter volume,10.47998323,0.091219818,nervous
+Remission after SSRI treatment in MDD or openness,10.40387857,0.091731817,psychiatric
+Coenzyme Q10 levels,10.1872415,0.093285813,hematologic
+Bortezomib-induced peripheral neuropathy in multiple myeloma,9.996201443,0.09497581,nervous
+Hypertriglyceridemia,4.538317011,0.098237804,hematologic
+Iron status biomarkers (iron levels),9.265092836,0.099573801,hematologic
+Blood trace element (Cu levels),8.958165368,0.100697799,hematologic
+White blood cell count (basophil),3.996738661,0.103573793,immune
+Paclitaxel-induced neuropathy,7.863984524,0.104741791,nervous
+Cardiovascular risk factors (age interaction),8.499065103,0.104749791,cardiovascular
+Lean body mass,9.022664934,0.105503789,endocrine
+Visceral fat,3.69972992,0.105841788,endocrine
+Dimensional psychopathology (Cognitive),6.868886691,0.105855788,psychiatric
+Chronic back pain,8.857866671,0.106681787,skeleton
+Iron status biomarkers,7.605141075,0.108489783,hematologic
+Response to angiotensin II receptor blocker therapy,8.713078331,0.108653783,cardiovascular
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 (Grade 1 peripheral neuropathy),8.596234849,0.11005178,immune
+Chronic periodontitis (mean interproximal clinical attachment level),8.4666836,0.111369777,skeleton
+Systolic blood pressure x alcohol consumption interaction (2df test),3.757745653,0.111929776,cardiovascular
+Severe malaria (adjusted for sickle cell variant rs334),8.280613428,0.111959776,immune
+Triglyceride change in response to fenofibrate in statin-treated type 2 diabetes,8.430281571,0.112061776,hematologic
+Dupuytren's disease,5.225397522,0.114355771,integumentary
+Neurocognitive impairment in HIV-1 infection (dichotomous),7.732038475,0.115627769,nervous
+Verbal declarative memory,3.595634899,0.115853768,nervous
+Beta2-Glycoprotein I plasma levels,7.459903021,0.116959766,hematologic
+Hip shape (DXA scan),7.98964542,0.117579765,skeleton
+Hemoglobin levels,5.715265474,0.119683761,hematologic
+Obesity in adult survivors of childhood cancer exposed to cranial radiation,7.853608733,0.11979776,endocrine
+Response to SSRI in MDD or openness,7.787070348,0.120719759,psychiatric
+Stearic acid (18:0) levels,6.533556345,0.121541757,hematologic
+Red blood cell traits,3.783292978,0.124029752,hematologic
+Cerebrospinal fluid t-tau levels in normal cognition,5.453038433,0.125599749,nervous
+Hepcidin/transferrin saturation ratio,7.337080136,0.127045746,hematologic
+Systemic lupus erythematosus,2.101280016,0.128243744,immune
+Body mass index,1.669070526,0.128359743,endocrine
+Epstein-Barr virus copy number in lymphoblastoid cell lines,3.306922049,0.128483743,immune
+Immature fraction of reticulocytes,3.220549683,0.13013774,hematologic
+Uterine fibroid size (maximum dimension),6.853445913,0.131453737,reproductive
+Refractive astigmatism,3.295685618,0.131829736,nervous
+Carboplatin disposition in epthelial ovarian cancer,6.962042942,0.131911736,reproductive
+Social science traits (pleiotropy) (HIPO component 1),7.079245069,0.131977736,none
+Putamen volume,6.95778019,0.134599731,nervous
+Mood instability,5.225479438,0.135643729,psychiatric
+Lipid metabolism phenotypes,5.149701832,0.135829728,endocrine
+Vitamin D levels,5.303239219,0.136081728,endocrine
+Electrocardiographic traits,6.822120042,0.136459727,cardiovascular
+Cutaneous squamous cell carcinoma,6.727754679,0.138661723,integumentary
+Mean corpuscular hemoglobin concentration,3.518388859,0.139381721,hematologic
+Peanut allergy,5.862283242,0.13979372,immune
+Lung function (FVC),3.180742513,0.141013718,respiratory
+Fractures,5.230180232,0.141721717,skeleton
+Borderline personality disorder,6.492916228,0.143033714,psychiatric
+Interleukin-6 levels,6.395170367,0.14503771,immune
+Severe malaria,5.670863105,0.146163708,immune
+Iron status biomarkers (transferrin saturation),5.345078252,0.146617707,hematologic
+Cardiovascular disease risk factors,6.332640965,0.146783706,cardiovascular
+Age at first birth,4.683094964,0.148005704,reproductive
+Autism,5.422758232,0.153759692,psychiatric
+Hip circumference,2.967508747,0.154369691,skeleton
+Obesity,2.913396379,0.157059686,endocrine
+Metabolite levels (lipoprotein measures),5.768010613,0.157907684,hematologic
+Common carotid intima-media thickness in HIV negative individuals,5.373339638,0.159103682,cardiovascular
+Response to lurasidone in schizophrenia,5.166570224,0.15976568,psychiatric
+Cervical cancer,4.8828125,0.160917678,reproductive
+Subcortical brain region volumes,5.161290323,0.161165678,nervous
+Body mass index (adult),4.853756322,0.162235676,endocrine
+Depression (quantitative trait),5.556296395,0.164509671,psychiatric
+Quantitative traits,4.276464903,0.16519967,none
+Hemostatic factors and hematological phenotypes,3.93091032,0.169251661,hematologic
+Obstructive sleep apnea trait (apnea hypopnea index),5.099023027,0.169601661,respiratory
+Cough in response to angiotensin-converting enzyme inhibitor drugs,5.371319303,0.16979566,respiratory
+Metabolite levels,2.629482281,0.172075656,endocrine
+Depression,2.792843618,0.173291653,psychiatric
+Hematological and biochemical traits,4.097487421,0.179305641,hematologic
+BMI in non-smokers,2.620249815,0.17976564,endocrine
+Headache,4.48442559,0.184285631,nervous
+Hemoglobin,4.2017866,0.18478363,hematologic
+Immune response to measles-mumps-rubella vaccine,4.695364736,0.185485629,immune
+Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular),4.139586869,0.186095628,immune
+HIV-1 viral setpoint,4.436557232,0.188171624,immune
+Obesity (early onset extreme),4.787483603,0.188785622,endocrine
+Metabolite levels (Pyroglutamine),4.662569822,0.193347613,endocrine
+Waist-to-hip ratio adjusted for BMI in non-smokers,4.213187276,0.194279611,endocrine
+Disease progression in age-related macular degeneration,2.443261363,0.194383611,nervous
+Attention deficit hyperactivity disorder and conduct disorder,3.987876854,0.197579605,psychiatric
+Smooth-surface caries,4.284783876,0.198689603,skeleton
+Molybdenum levels,4.379165681,0.199329601,hematologic
+Metabolic syndrome,3.803004373,0.21007558,endocrine
+Uterine fibroid number (single vs multiple),4.130490454,0.21523957,reproductive
+Post-traumatic stress disorder,4.103641572,0.216267567,psychiatric
+Waist circumference,2.289298673,0.220555559,endocrine
+QT interval (drug interaction),3.997185981,0.221469557,cardiovascular
+Erectile dysfunction and prostate cancer treatment,3.954382246,0.222645555,reproductive
+Periodontal microbiota,3.533793669,0.225385549,immune
+Obsessive-compulsive disorder,3.757533855,0.230975538,psychiatric
+Thyroid stimulating hormone,3.794835987,0.231603537,endocrine
+Waist-to-hip ratio adjusted for BMI x sex interaction,3.772474517,0.232411535,endocrine
+Total body bone mineral density,3.678093276,0.232941534,skeleton
+Thyroid hormone levels,3.700414446,0.233057534,endocrine
+Multiple sclerosis,1.84730884,0.236183528,nervous
+Atopic dermatitis,2.737206298,0.238529523,immune
+Male-pattern baldness,1.706692396,0.238993522,integumentary
+LDL cholesterol,2.048210785,0.242709515,hematologic
+Joint mobility (Beighton score),3.288521744,0.243223514,skeleton
+Basophil percentage of white cells,3.310227942,0.250853498,immune
+Erosive tooth wear (severe vs none or mild),3.298588204,0.254225492,skeleton
+Allergic rhinitis,2.091835774,0.256355487,immune
+Diastolic blood pressure,1.411808555,0.260531479,cardiovascular
+Basophil percentage of granulocytes,3.080866586,0.266821466,immune
+Tonsillectomy,2.385985675,0.267071466,immune
+Metabolic traits,3.195316943,0.269527461,endocrine
+Total cholesterol levels,1.878982268,0.271963456,hematologic
+LDL cholesterol levels,2.680131648,0.272627455,hematologic
+Asthma,1.622454774,0.281533437,immune
+Vertical cup-disc ratio,2.883522973,0.283313433,nervous
+Uterine fibroids,2.710614767,0.287975424,reproductive
+Mean corpuscular volume,1.60985316,0.289081422,hematologic
+Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1),2.79570133,0.291587417,respiratory
+Telomere length,2.791783224,0.291879416,none
+Albumin-globulin ratio,2.567038203,0.306147388,hematologic
+Feeling fed-up,2.748098316,0.306227388,psychiatric
+Type 2 diabetes (age of onset),2.260275211,0.308445383,endocrine
+Cadmium levels,2.524997475,0.311271377,hematologic
+Visceral adipose tissue adjusted for BMI,2.283084173,0.311959376,endocrine
+Nickel levels,2.468904152,0.313751372,hematologic
+Pulmonary function (smoking interaction),2.387432555,0.31501137,respiratory
+Diverticular disease,1.70374005,0.326245348,digestive
+Tuberculosis,2.02501296,0.328657343,immune
+Primary biliary cholangitis,1.811495752,0.328705343,immune
+Sleep duration,2.293998899,0.33004134,psychiatric
+ALT levels after remission induction therapy in actute lymphoblastic leukemia (ALL),2.448136234,0.332551335,digestive
+Lung function (FEV1),2.268551076,0.335581329,respiratory
+Asthma (childhood onset),2.151425965,0.344429311,immune
+Feeling miserable,2.280418502,0.34494731,psychiatric
+Hypothyroidism,1.965632875,0.349001302,endocrine
+Idiopathic dilated cardiomyopathy,2.117163847,0.350709299,cardiovascular
+Red blood cell count,1.524390244,0.358189284,hematologic
+Angiotensin-converting enzyme inhibitor intolerance,2.265508539,0.358925282,cardiovascular
+Glycated hemoglobin levels,2.112423161,0.359533281,hematologic
+Urate levels in obese individuals,2.029344319,0.360391279,urinary
+Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour),1.937669062,0.36521327,endocrine
+Pelvic organ prolapse (moderate/severe),2.010834376,0.365559269,reproductive
+Rheumatoid arthritis (ACPA-positive),2.019304552,0.365935268,immune
+Plateletcrit,1.548013975,0.366631267,hematologic
+Bronchopulmonary dysplasia,2.09843331,0.372233256,respiratory
+Feeling worry,2.09199769,0.376065248,psychiatric
+Immune response to smallpox vaccine (IL-6),2.064273211,0.379141242,immune
+Rheumatoid arthritis,1.435717198,0.383779232,immune
+PR interval,1.855266917,0.38515523,cardiovascular
+"Autism spectrum disorder, ADHD, bipolar disorder, MDD, and schizophrenia (combined)",2.007564503,0.387703225,psychiatric
+Blood pressure (smoking interaction),1.9827658,0.391925216,cardiovascular
+Motion sickness,2.001609294,0.393061214,psychiatric
+Paclitaxel disposition in epithelial ovarian cancer,1.789645113,0.396371207,reproductive
+Copper levels,1.773609402,0.408677183,hematologic
+Triglyceride levels,1.524478552,0.409137182,hematologic
+Vitiligo,1.403867374,0.411503177,integumentary
+Response to statin therapy,1.565797962,0.411715177,cardiovascular
+Intracranial aneurysm,1.775252974,0.417983164,cardiovascular
+Diisocyanate-induced asthma,1.326070006,0.423333153,respiratory
+"Coronary artery disease (myocardial infarction, PTCA, CABG, angina or CIHD)",1.623371353,0.425861148,cardiovascular
+"Cholesterol, total",1.514009126,0.429395141,hematologic
+Protein quantitative trait loci,1.69392187,0.436913126,none
+Coronary artery calcification,1.730025985,0.440713119,hematologic
+Amyotrophic lateral sclerosis (sporadic),1.322627108,0.447065106,nervous
+Blood protein levels,1.005781028,0.447429105,hematologic
+Schizophrenia,1.007914955,0.46009708,psychiatric
+Hemoglobin concentration,1.543829314,0.465865068,hematologic
+Spherical equivalent or myopia (age of diagnosis),1.233818471,0.46981906,nervous
+Glomerular filtration rate (creatinine),1.51569349,0.475349049,urinary
+Pancreatic cancer,1.219652009,0.478599043,digestive
+Hip circumference adjusted for BMI,1.52431124,0.47993704,skeleton
+Loneliness,1.040177912,0.481503037,psychiatric
+Lung function (FEV1/FVC),1.470869431,0.483469033,respiratory
+Atrial fibrillation,1.159034617,0.484639031,cardiovascular
+Longevity,1.394221787,0.506226988,none
+Platelet count,1.068404605,0.513182974,hematologic
+Granulocyte percentage of myeloid white cells,1.290212704,0.520912958,immune
+Waist-to-hip ratio adjusted for BMI,0.601321464,0.523870952,endocrine
+Hematocrit,1.203401293,0.527330945,hematologic
+Myopia,1.202541692,0.52996894,nervous
+Glomerular filtration rate,1.134991329,0.539350921,urinary
+High light scatter reticulocyte percentage of red cells,1.221037002,0.547070906,hematologic
+Reticulocyte count,1.171860352,0.550416899,hematologic
+Mosquito bite size,1.170321581,0.561858876,immune
+Monocyte percentage of white cells,1.143633507,0.568600863,immune
+High light scatter reticulocyte count,1.142721322,0.573340853,hematologic
+Reticulocyte fraction of red cells,1.060848127,0.57993484,hematologic
+Photic sneeze reflex,1.103051482,0.589096822,nervous
+Triglycerides,0.95739405,0.594008812,hematologic
+Resting heart rate,0.947123963,0.595314809,cardiovascular
+Red cell distribution width,0.956562497,0.604738791,hematologic
+Obesity-related traits,0.94342085,0.605756788,endocrine
+Chronic inflammatory diseases (pleiotropy),1.000292085,0.613196774,immune
+Lung cancer,0.79024896,0.621788756,respiratory
+Platelet distribution width,0.932169737,0.623298753,hematologic
+Neurociticism,0.951798995,0.641994716,psychiatric
+Cognitive decline rate in late mild cognitive impairment,0.763576777,0.648392703,psychiatric
+Daytime sleep phenotypes,0.648658186,0.65490669,psychiatric
+Rosacea symptom severity,0.766388059,0.69024462,integumentary
+Ulcerative colitis,0.421512302,0.696986606,immune
+HDL cholesterol,0.692716502,0.707368585,hematologic
+Prostate cancer,0.51306152,0.72506255,reproductive
+Mean platelet volume,0.68050913,0.736182528,hematologic
+Mean corpuscular hemoglobin,0.624570608,0.748600503,hematologic
+Major depressive disorder,0.59652702,0.777818444,psychiatric
+Height,0.584481206,0.801116398,skeleton
+Heel bone mineral density,0.695732516,0.811976376,skeleton
+Systolic blood pressure,0.620431556,0.842342315,cardiovascular
+Pulse pressure,0.536086962,0.868804262,cardiovascular
+Menarche (age at onset),0.44573132,0.877726245,reproductive
+Intraocular pressure,0.394814039,0.87998424,nervous
+Post bronchodilator FEV1/FVC ratio,0.429643327,0.88490223,respiratory
+Coronary artery disease,0.378435246,0.887768224,cardiovascular
+Night sleep phenotypes,0.302759654,0.902614195,psychiatric
+Type 2 diabetes,0.364762219,0.921554157,endocrine
