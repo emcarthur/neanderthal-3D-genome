@@ -16,7 +16,7 @@ Last Edited: February 5, 2022 3:06 PM
 
 - `Neanderthal_3D_Genome.ipynb` - Ipython/Jupyter notebook in python for analysis and figure generating code. It is organized by sub-section and figure to align with the presentation of results from the paper. Other python scripts are also launched from this notebook so if you want example usage for the other python scripts (below), check this out. Sections include:
     
-    ![toc](toc.png)
+    <img src="https://github.com/emcarthur/neanderthal-3D-genome/blob/d594cbe1f01b3303b2bdb6eccfc4c72899cfa12e/toc.png" width="600" >
     
 - `environment.yml`- List and version of packages/dependencies used in Anaconda environment for all python scripts in this project
 - `compareCellTypes.py` - Runs Akita on positions across the genome to compare HFF and ESC results, used for a supplemental figure. See `Neanderthal_3D_Genome.ipynb` for how this was parallelized.
