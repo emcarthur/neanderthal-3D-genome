@@ -1,0 +1,272 @@
+label	obs	mean_exp	enr	p	Systems
+Human_Phenotype_Ontology: Abolished electroretinogram (ERG) (HP:0000550)	4	0.149594	26.73904033584235	1.999996000008e-05	nervous
+Human_Phenotype_Ontology: Bony spicule pigmentary retinopathy (HP:0007737)	3	0.16811199999999998	17.84524602645855	0.0006139987720024559	nervous
+Human_Phenotype_Ontology: Underdeveloped supraorbital ridges (HP:0009891)	3	0.246496	12.1705828897832	0.001817996364007272	skeleton
+Human_Phenotype_Ontology: Retinitis pigmentosa (HP:0000510)	4	0.540216	7.404445629155744	0.002207995584008832	nervous
+Human_Phenotype_Ontology: Low anterior hairline (HP:0000294)	3	0.25451399999999996	11.787170843254204	0.0030119939760120482	integumentary
+Human_Phenotype_Ontology: Optic atrophy (HP:0000648)	7	1.8941540000000001	3.69558124629782	0.0042999914000172	nervous
+Human_Phenotype_Ontology: Sacral dimple (HP:0000960)	3	0.27288	10.993843447669306	0.005457989084021832	integumentary
+Human_Phenotype_Ontology: Constricted visual fields (HP:0001133)	2	0.12946400000000002	15.448309954890936	0.00766998466003068	nervous
+Human_Phenotype_Ontology: Leiomyosarcoma (HP:0100243)	2	0.149038	13.419396395550127	0.009927980144039712	reproductive
+Human_Phenotype_Ontology: Uterine leiomyosarcoma (HP:0002891)	2	0.149038	13.419396395550127	0.009927980144039712	reproductive
+Human_Phenotype_Ontology: Hereditary nonpolyposis colorectal carcinoma (HP:0006716)	2	0.15404600000000002	12.98313490775483	0.010411979176041648	digestive
+Human_Phenotype_Ontology: Metatarsus adductus (HP:0001840)	2	0.13819	14.472827266806572	0.010501978996042008	skeleton
+Human_Phenotype_Ontology: Transitional cell carcinoma of the bladder (HP:0006740)	2	0.157638	12.687296210304623	0.011215977568044865	urinary
+Human_Phenotype_Ontology: Bladder carcinoma (HP:0002862)	2	0.159696	12.523795210900712	0.011513976972046057	urinary
+Human_Phenotype_Ontology: Bladder neoplasm (HP:0009725)	2	0.159696	12.523795210900712	0.011513976972046057	urinary
+Human_Phenotype_Ontology: Attenuation of retinal blood vessels (HP:0007843)	2	0.169432	11.804145615940318	0.013975972048055904	nervous
+Human_Phenotype_Ontology: Gastrointestinal carcinoma (HP:0002672)	2	0.18138800000000002	11.026087723553927	0.01441997116005768	digestive
+Human_Phenotype_Ontology: Malignant gastrointestinal tract tumors (HP:0006749)	2	0.18138800000000002	11.026087723553927	0.01441997116005768	digestive
+Human_Phenotype_Ontology: Coarse hair (HP:0002208)	2	0.190066	10.522660549493333	0.01583396833206334	integumentary
+Human_Phenotype_Ontology: Narrow palate (HP:0000189)	2	0.192962	10.364735025549072	0.01640996718006564	skeleton
+Human_Phenotype_Ontology: Renal cell carcinoma (HP:0005584)	2	0.201752	9.913160712161462	0.017231965536068927	urinary
+Human_Phenotype_Ontology: Type II diabetes mellitus (HP:0005978)	3	0.547326	5.481194023306037	0.02135195729608541	endocrine
+Human_Phenotype_Ontology: Sandal gap (HP:0001852)	2	0.23137800000000003	8.643864153030972	0.02254195491609017	skeleton
+Human_Phenotype_Ontology: Ulnar deviation of the wrist (HP:0003049)	1	0.030032	33.29781566329249	0.02609794780410439	skeleton
+Human_Phenotype_Ontology: Ventricular septal defect (HP:0001629)	4	1.0932600000000001	3.6587819914750384	0.02878394243211513	cardiovascular
+Human_Phenotype_Ontology: Tapered finger (HP:0001182)	2	0.257718	7.7604203043636835	0.028873942252115495	skeleton
+Human_Phenotype_Ontology: Uterine neoplasm (HP:0010784)	2	0.236758	8.4474442257495	0.031703936592126815	reproductive
+Human_Phenotype_Ontology: Convex nasal ridge (HP:0000444)	2	0.272806	7.331217055343357	0.03349593300813398	skeleton
+Human_Phenotype_Ontology: Hypoplasia of the maxilla (HP:0000327)	2	0.293364	6.817469082777709	0.035749928500143	skeleton
+Human_Phenotype_Ontology: Leukopenia (HP:0001882)	2	0.298848	6.692365349609166	0.03692992614014772	immune
+Human_Phenotype_Ontology: Spina bifida occulta (HP:0003298)	2	0.26272199999999996	7.612609526419562	0.03734592530814938	nervous
+Human_Phenotype_Ontology: Vacuolated lymphocytes (HP:0001922)	1	0.040126	24.9214972835568	0.03924592150815698	immune
+Human_Phenotype_Ontology: Wide nasal bridge (HP:0000431)	4	1.270536	3.1482775773374385	0.0401479197041606	skeleton
+Human_Phenotype_Ontology: Spinal cord lesions (HP:0100561)	1	0.0449	22.271714922048996	0.043943912112175784	nervous
+Human_Phenotype_Ontology: Syringomyelia (HP:0003396)	1	0.0449	22.271714922048996	0.043943912112175784	nervous
+Human_Phenotype_Ontology: Interstitial pulmonary disease (HP:0006530)	1	0.046294	21.60107141314209	0.04508590982818034	respiratory
+Human_Phenotype_Ontology: Persistence of primary teeth (HP:0006335)	1	0.046948000000000004	21.300161881230302	0.04584590830818338	skeleton
+Human_Phenotype_Ontology: Hemiplegia (HP:0002301)	1	0.05375	18.6046511627907	0.047413905172189665	nervous
+Human_Phenotype_Ontology: Abnormality of the phalanges of the hallux (HP:0010057)	1	0.04904	20.391517128874387	0.047915904168191664	skeleton
+Human_Phenotype_Ontology: Coronal craniosynostosis (HP:0004440)	1	0.050901999999999996	19.645593493379433	0.049697900604198784	skeleton
+Human_Phenotype_Ontology: Facial hemangioma (HP:0000329)	1	0.05135599999999999	19.471921489212555	0.050039899920200165	integumentary
+Human_Phenotype_Ontology: Abnormality of the proximal phalanges of the hand (HP:0009834)	1	0.056382	17.73615692951651	0.05523188953622093	skeleton
+Human_Phenotype_Ontology: Increased neuronal autofluorescent lipopigment (HP:0002074)	1	0.057038	17.532171534766295	0.05533788932422135	nervous
+Human_Phenotype_Ontology: Impaired proprioception (HP:0010831)	1	0.058722	17.029392731855182	0.0572258855482289	nervous
+Human_Phenotype_Ontology: Intracellular accumulation of autofluorescent lipopigment storage material (HP:0003204)	1	0.059789999999999996	16.725204883759826	0.057871884256231486	nervous
+Human_Phenotype_Ontology: Narrow forehead (HP:0000341)	2	0.379558	5.2692869074028215	0.05966188067623865	skeleton
+Human_Phenotype_Ontology: Hemiparesis (HP:0001269)	1	0.062229999999999994	16.06941989394183	0.060495879008241986	nervous
+Human_Phenotype_Ontology: Lymphoma (HP:0002665)	2	0.375392	5.327764043986019	0.060929878140243726	immune
+Human_Phenotype_Ontology: Sparse lateral eyebrow (HP:0005338)	1	0.06327	15.805278963173699	0.06131787736424527	integumentary
+Human_Phenotype_Ontology: Increased cerebral lipofuscin (HP:0011813)	1	0.06636399999999999	15.068410584051593	0.06406187187625624	nervous
+Human_Phenotype_Ontology: Vitreoretinal degeneration (HP:0000655)	1	0.067692	14.772794421792824	0.06520386959226082	nervous
+Human_Phenotype_Ontology: Incomplete penetrance (HP:0003829)	2	0.41726599999999997	4.793105596909405	0.06526186947626103	other
+Human_Phenotype_Ontology: Short foot (HP:0001773)	2	0.41481	4.821484535088354	0.066749866500267	skeleton
+Human_Phenotype_Ontology: Deep palmar crease (HP:0006191)	1	0.070048	14.27592507994518	0.06752786494427011	integumentary
+Human_Phenotype_Ontology: Blindness (HP:0000618)	2	0.41496400000000006	4.819695202475397	0.06779186441627116	nervous
+Human_Phenotype_Ontology: Impaired vibration sensation in the lower limbs (HP:0002166)	1	0.070684	14.147473261275534	0.06828586342827314	nervous
+Human_Phenotype_Ontology: Scotoma (HP:0000575)	1	0.070284	14.227989300552045	0.06833786332427336	nervous
+Human_Phenotype_Ontology: Overlapping toe (HP:0001845)	1	0.073168	13.667176907937893	0.07057185885628227	skeleton
+Human_Phenotype_Ontology: Prominent metopic ridge (HP:0005487)	1	0.077528	12.89856567949644	0.07169585660828677	skeleton
+Human_Phenotype_Ontology: Chorioretinal atrophy (HP:0000533)	1	0.076872	13.008637735456345	0.0738518522962954	nervous
+Human_Phenotype_Ontology: Abnormality of the middle phalanges of the toes (HP:0010183)	1	0.08102000000000001	12.342631449024935	0.07775184449631099	skeleton
+Human_Phenotype_Ontology: Thyroiditis (HP:0100646)	1	0.093962	10.642600200080881	0.0780258439483121	endocrine
+Human_Phenotype_Ontology: Flared iliac wings (HP:0002869)	1	0.081452	12.277169375828713	0.07816184367631265	skeleton
+Human_Phenotype_Ontology: Heterotopia (HP:0002282)	1	0.082264	12.15598560731304	0.07865584268831463	nervous
+Human_Phenotype_Ontology: Severe combined immunodeficiency (HP:0004430)	1	0.094952	10.531637037661136	0.07881184237631525	immune
+Human_Phenotype_Ontology: Split foot (HP:0001839)	1	0.08183	12.220457045093484	0.07888184223631553	skeleton
+Human_Phenotype_Ontology: IgM deficiency (HP:0002850)	1	0.08216799999999999	12.170187907701294	0.07899984200031598	immune
+Human_Phenotype_Ontology: Supernumerary spleens (HP:0009799)	1	0.08338	11.993283761093789	0.08013583972832054	immune
+Human_Phenotype_Ontology: Genu valgum (HP:0002857)	2	0.41677600000000004	4.798740810411347	0.08076983846032308	skeleton
+Human_Phenotype_Ontology: Long toe (HP:0010511)	1	0.084226	11.872818369624582	0.08088183823632353	skeleton
+Human_Phenotype_Ontology: Duplication of thumb phalanx (HP:0009942)	1	0.083932	11.914406900824476	0.08108383783232434	skeleton
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of the phalanges of the toes (HP:0010173)	1	0.08596799999999999	11.632235250325706	0.08207783584432833	skeleton
+Human_Phenotype_Ontology: Progressive inability to walk (HP:0002505)	1	0.08719199999999999	11.468942104780258	0.08382783234433533	nervous
+Human_Phenotype_Ontology: Hydroureter (HP:0000072)	1	0.087618	11.413179940194937	0.08409183181633638	urinary
+Human_Phenotype_Ontology: Abnormality of the metopic suture (HP:0005556)	1	0.09279	10.777023386140748	0.08587982824034351	skeleton
+Human_Phenotype_Ontology: Combined immunodeficiency (HP:0005387)	1	0.104446	9.574325488769317	0.08756782486435027	immune
+Human_Phenotype_Ontology: Gastrointestinal stroma tumor (HP:0100723)	1	0.102372	9.768296018442543	0.09024181951636097	digestive
+Human_Phenotype_Ontology: Median cleft lip (HP:0000161)	1	0.09600399999999999	10.416232656972623	0.09168581662836674	integumentary
+Human_Phenotype_Ontology: Coxa valga (HP:0002673)	1	0.09854199999999999	10.147957216212378	0.09376981246037508	skeleton
+Human_Phenotype_Ontology: Broad alveolar ridges (HP:0000187)	1	0.100122	9.987814865863646	0.09508780982438036	skeleton
+Human_Phenotype_Ontology: Trigonocephaly (HP:0000243)	1	0.102198	9.784927297990176	0.09704380591238818	skeleton
+Human_Phenotype_Ontology: Optic nerve coloboma (HP:0000588)	1	0.102028	9.801231034617947	0.09741980516038967	nervous
+Human_Phenotype_Ontology: Abnormality of the thoracic spine (HP:0100711)	1	0.10346400000000001	9.665197556638057	0.0986258027483945	skeleton
+Human_Phenotype_Ontology: Telecanthus (HP:0000506)	2	0.521388	3.835914904063769	0.09931980136039728	integumentary
+Human_Phenotype_Ontology: Gastrointestinal dysmotility (HP:0002579)	1	0.10499000000000001	9.524716639679971	0.09948780102439796	digestive
+Human_Phenotype_Ontology: Opisthotonus (HP:0002179)	1	0.10896199999999999	9.177511426001725	0.10317179365641267	nervous
+Human_Phenotype_Ontology: Attention deficit hyperactivity disorder (HP:0007018)	2	0.522672	3.8264915664125874	0.10380379239241523	nervous
+Human_Phenotype_Ontology: Abnormality of incisor morphology (HP:0011063)	1	0.109356	9.144445663703868	0.1041777916444167	skeleton
+Human_Phenotype_Ontology: Broad palm (HP:0001169)	1	0.114802	8.71064964025017	0.10833378333243332	skeleton
+Human_Phenotype_Ontology: Tachypnea (HP:0002789)	1	0.116004	8.62039240026206	0.109501780996438	respiratory
+Human_Phenotype_Ontology: Hypoparathyroidism (HP:0000829)	1	0.12160399999999999	8.223413703496595	0.11041577916844167	skeleton
+Human_Phenotype_Ontology: Abnormal connection of the cardiac segments (HP:0011545)	1	0.1231	8.123476848090982	0.11574976850046301	cardiovascular
+Human_Phenotype_Ontology: Abnormal ventriculo-arterial connection (HP:0011563)	1	0.1231	8.123476848090982	0.11574976850046301	cardiovascular
+Human_Phenotype_Ontology: Transposition of the great arteries (HP:0001669)	1	0.1231	8.123476848090982	0.11574976850046301	cardiovascular
+Human_Phenotype_Ontology: Recurrent sinusitis (HP:0011108)	1	0.12440599999999999	8.038197514589328	0.1168737662524675	immune
+Human_Phenotype_Ontology: Supernumerary nipples (HP:0002558)	1	0.14438399999999998	6.925975177304964	0.11840976318047365	integumentary
+Human_Phenotype_Ontology: Genu varum (HP:0002970)	1	0.129234	7.737901790550475	0.1215497569004862	skeleton
+Human_Phenotype_Ontology: Dislocated radial head (HP:0003083)	1	0.130994	7.633937432248804	0.1229457541084918	skeleton
+Human_Phenotype_Ontology: Cubitus valgus (HP:0002967)	1	0.1383	7.230657989877079	0.12389175221649555	skeleton
+Human_Phenotype_Ontology: Respiratory distress (HP:0002098)	1	0.132776	7.531481593058986	0.12401175197649605	respiratory
+Human_Phenotype_Ontology: Upslanted palpebral fissure (HP:0000582)	2	0.5998180000000001	3.3343447512412103	0.12407975184049633	integumentary
+Human_Phenotype_Ontology: Abnormality of eosinophils (HP:0001879)	1	0.153886	6.498316935913597	0.12489175021649955	immune
+Human_Phenotype_Ontology: Abnormality of the epiphyses of the phalanges of the hand (HP:0005920)	1	0.1401	7.1377587437544605	0.1250977498045004	skeleton
+Human_Phenotype_Ontology: Abnormality of the anterior chamber (HP:0000593)	1	0.1338	7.473841554559042	0.12520974958050085	nervous
+Human_Phenotype_Ontology: Broad-based gait (HP:0002136)	1	0.133624	7.483685565467281	0.12558974882050236	nervous
+Human_Phenotype_Ontology: Clinodactyly of the 5th finger (HP:0004209)	3	1.1893200000000002	2.5224498032489158	0.12604774790450418	skeleton
+Human_Phenotype_Ontology: Abnormality of the alveolar ridges (HP:0006477)	1	0.14308800000000002	6.988706250698872	0.12710574578850842	digestive
+Human_Phenotype_Ontology: Abnormality of the radial head (HP:0003995)	1	0.136142	7.3452718485111115	0.1275537448925102	skeleton
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of the brainstem (HP:0007362)	1	0.13835799999999998	7.227626880989895	0.1296957406085188	nervous
+Human_Phenotype_Ontology: Hypoplasia of the brainstem (HP:0002365)	1	0.13835799999999998	7.227626880989895	0.1296957406085188	nervous
+Human_Phenotype_Ontology: Truncal ataxia (HP:0002078)	1	0.14321	6.982752601075344	0.1339737320525359	nervous
+Human_Phenotype_Ontology: Impaired vibratory sensation (HP:0002495)	1	0.147944	6.759314335153843	0.1376277247445505	nervous
+Human_Phenotype_Ontology: Intellectual disability, profound (HP:0002187)	1	0.148346	6.740997397975003	0.13823772352455296	nervous
+Human_Phenotype_Ontology: Intrauterine growth retardation (HP:0001511)	3	1.276874	2.349487889956253	0.13943772112455774	reproductive
+Human_Phenotype_Ontology: Abnormality of chromosome stability (HP:0003220)	1	0.151322	6.608424419449913	0.1408737182525635	other
+Human_Phenotype_Ontology: Hypoplastic toenails (HP:0001800)	1	0.180366	5.544282181785923	0.14104571790856418	integumentary
+Human_Phenotype_Ontology: Mitral valve prolapse (HP:0001634)	1	0.159646	6.263858787567493	0.141249717500565	cardiovascular
+Human_Phenotype_Ontology: Periauricular skin pits (HP:0100277)	1	0.155142	6.4457078031738675	0.14434171131657736	integumentary
+Human_Phenotype_Ontology: Preauricular pit (HP:0004467)	1	0.155142	6.4457078031738675	0.14434171131657736	integumentary
+Human_Phenotype_Ontology: Progressive visual loss (HP:0000529)	1	0.160076	6.247032659486744	0.1480537038925922	nervous
+Human_Phenotype_Ontology: Emphysema (HP:0002097)	1	0.17044	5.867167331612297	0.14835970328059345	respiratory
+Human_Phenotype_Ontology: Abnormality of the acetabulum (HP:0003170)	1	0.16383	6.103888176768602	0.14865970268059464	skeleton
+Human_Phenotype_Ontology: Abnormality of the epiphyses of the hand (HP:0005924)	1	0.167448	5.972003248769767	0.149001701996596	skeleton
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of the tongue (HP:0010295)	1	0.16200799999999999	6.172534689644955	0.14948370103259792	digestive
+Human_Phenotype_Ontology: Inability to walk (HP:0002540)	1	0.161056	6.209020464931452	0.1498277003445993	nervous
+Human_Phenotype_Ontology: Splenomegaly (HP:0001744)	3	1.284324	2.3358591757220144	0.1503456993086014	immune
+Human_Phenotype_Ontology: Abnormality involving the epiphyses of the upper limbs (HP:0003839)	1	0.169718	5.892126939982795	0.15098369803260395	skeleton
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of the earlobes (HP:0009906)	1	0.16871	5.9273309228854245	0.1512256975486049	integumentary
+Human_Phenotype_Ontology: Delayed myelination (HP:0012448)	1	0.165672	6.036022985175527	0.1528776942446115	nervous
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of the middle phalanges of the hand (HP:0009843)	1	0.168236	5.944031004065717	0.15518968962062074	skeleton
+Human_Phenotype_Ontology: Rhizomelia (HP:0008905)	1	0.169446	5.901585165775527	0.1563936872126256	skeleton
+Human_Phenotype_Ontology: Lumbar hyperlordosis (HP:0002938)	1	0.171522	5.830155898368722	0.15750568498863002	skeleton
+Human_Phenotype_Ontology: Preaxial foot polydactyly (HP:0001841)	1	0.178568	5.600107522064422	0.1592716814566371	skeleton
+Human_Phenotype_Ontology: Macular degeneration (HP:0000608)	1	0.178612	5.5987279690054415	0.16159167681664638	nervous
+Human_Phenotype_Ontology: Abnormality of the incisor (HP:0000676)	1	0.17538	5.7019044360816515	0.1617796764406471	skeleton
+Human_Phenotype_Ontology: Laryngomalacia (HP:0001601)	1	0.184504	5.419936695139401	0.16365967268065465	respiratory
+Human_Phenotype_Ontology: Short thorax (HP:0010306)	1	0.192396	5.197613255992848	0.16738166523666953	skeleton
+Human_Phenotype_Ontology: Abnormality of the humeroradial joint (HP:0100744)	1	0.185628	5.387118322666839	0.16953566092867814	skeleton
+Human_Phenotype_Ontology: Radial deviation of finger (HP:0009466)	3	1.387764	2.1617508452445806	0.16984366031267936	skeleton
+Human_Phenotype_Ontology: Leukocytosis (HP:0001974)	1	0.20133800000000002	4.9667722933574385	0.17273365453269093	immune
+Human_Phenotype_Ontology: Ulnar deviation of finger (HP:0009465)	1	0.19956	5.0110242533573865	0.1746016507966984	skeleton
+Human_Phenotype_Ontology: Growth hormone deficiency (HP:0000824)	1	0.195494	5.115246503729014	0.1779716440567119	endocrine
+Human_Phenotype_Ontology: Lymphopenia (HP:0001888)	1	0.20294	4.927564797477086	0.17898764202471595	immune
+Human_Phenotype_Ontology: Wide intermamillary distance (HP:0006610)	1	0.20061600000000002	4.984647286358019	0.1816016367967264	integumentary
+Human_Phenotype_Ontology: Skin pits (HP:0100276)	1	0.200282	4.992959926503629	0.1818196363607273	integumentary
+Human_Phenotype_Ontology: Photophobia (HP:0000613)	2	0.7772680000000001	2.573115064559457	0.18451163097673806	nervous
+Human_Phenotype_Ontology: Hyperammonemia (HP:0001987)	1	0.207898	4.810051082742499	0.1857016285967428	urinary
+Human_Phenotype_Ontology: Abnormality of the wing of the ilium (HP:0011867)	1	0.212162	4.713379398761324	0.18813562372875253	skeleton
+Human_Phenotype_Ontology: Restrictive lung disease (HP:0002091)	1	0.20742800000000003	4.820949919972231	0.18827162345675308	respiratory
+Human_Phenotype_Ontology: Truncal obesity (HP:0001956)	1	0.20923200000000003	4.779383650684408	0.1891776216447567	endocrine
+Human_Phenotype_Ontology: Cryptorchidism (HP:0000028)	4	2.22427	1.7983428270848412	0.19026561946876105	reproductive
+Human_Phenotype_Ontology: Abnormality of cells of the lymphoid lineage (HP:0012140)	1	0.218166	4.583665649092892	0.1911956176087648	immune
+Human_Phenotype_Ontology: Arteriovenous malformation (HP:0100026)	1	0.21677	4.613184481247405	0.1915216169567661	cardiovascular
+Human_Phenotype_Ontology: Abnormality of primary teeth (HP:0006481)	1	0.21201599999999998	4.716625160365255	0.1921756156487687	skeleton
+Human_Phenotype_Ontology: Pectus excavatum (HP:0000767)	2	0.782606	2.555564358055011	0.1922936154127692	skeleton
+Human_Phenotype_Ontology: Vasculitis (HP:0002633)	1	0.21938000000000002	4.558300665511896	0.19499761000478	immune
+Human_Phenotype_Ontology: Delayed puberty (HP:0000823)	1	0.218286	4.58114583619655	0.19590760818478364	reproductive
+Human_Phenotype_Ontology: Cutis marmorata (HP:0000965)	1	0.221214	4.520509551836684	0.1991476017047966	cardiovascular
+Human_Phenotype_Ontology: Abnormality of the antihelix (HP:0009738)	1	0.23091199999999998	4.330654101995565	0.20106759786480427	integumentary
+Human_Phenotype_Ontology: Recurrent otitis media (HP:0000403)	1	0.23260999999999998	4.2990413137870265	0.20150359699280604	immune
+Human_Phenotype_Ontology: Urinary incontinence (HP:0000020)	1	0.22772399999999998	4.391280673095502	0.20388359223281555	urinary
+Human_Phenotype_Ontology: Abnormality of the middle phalanges of the hand (HP:0009833)	1	0.233706	4.278880302602415	0.2083035833928332	skeleton
+Human_Phenotype_Ontology: Anxiety (HP:0000739)	1	0.23477399999999998	4.2594154378253135	0.2103535792928414	nervous
+Human_Phenotype_Ontology: Precocious puberty (HP:0000826)	1	0.250952	3.9848257834167486	0.21088157823684356	reproductive
+Human_Phenotype_Ontology: Death in infancy (HP:0001522)	1	0.244446	4.090883058016904	0.2112955774088452	other
+Human_Phenotype_Ontology: Myelodysplasia (HP:0002863)	1	0.239076	4.1827703324465855	0.2129235741528517	hematologic
+Human_Phenotype_Ontology: Short metatarsal (HP:0010743)	1	0.240108	4.1647925100371515	0.2135135729728541	skeleton
+Human_Phenotype_Ontology: Preauricular skin tag (HP:0000384)	1	0.252274	3.963943965688101	0.21928756142487715	integumentary
+Human_Phenotype_Ontology: Ulnar deviation of the hand or of fingers of the hand (HP:0001193)	1	0.260176	3.843552057069061	0.22325755348489304	skeleton
+Human_Phenotype_Ontology: Psychosis (HP:0000709)	1	0.25456799999999996	3.9282235002042674	0.22561154877690245	psychiatric
+Human_Phenotype_Ontology: Childhood onset (HP:0011463)	1	0.258716	3.8652421960760064	0.22786754426491146	other
+Human_Phenotype_Ontology: Narrow face (HP:0000275)	1	0.281444	3.5531047028893843	0.22886154227691544	skeleton
+Human_Phenotype_Ontology: Cutaneous photosensitivity (HP:0000992)	1	0.26149	3.8242380205744007	0.2291235417529165	integumentary
+Human_Phenotype_Ontology: Aplasia/Hypoplasia of metatarsal bones (HP:0001964)	1	0.260282	3.8419867681975695	0.22925754148491706	skeleton
+Human_Phenotype_Ontology: Bone marrow hypocellularity (HP:0005528)	1	0.25956399999999996	3.852614384121064	0.22954354091291815	hematologic
+Human_Phenotype_Ontology: Polymicrogyria (HP:0002126)	1	0.269918	3.704828873954312	0.23646752706494584	nervous
+Human_Phenotype_Ontology: Sepsis (HP:0100806)	1	0.286036	3.4960634325749207	0.23904352191295614	immune
+Human_Phenotype_Ontology: Skin tags (HP:0010609)	1	0.2784	3.5919540229885065	0.23946752106495786	integumentary
+Human_Phenotype_Ontology: Teleangiectasia of the skin (HP:0100585)	1	0.27927199999999996	3.580738491506488	0.2418355163289673	cardiovascular
+Human_Phenotype_Ontology: Autosomal recessive inheritance (HP:0000007)	12	9.300914	1.2901957807587512	0.2426215147569705	other
+Human_Phenotype_Ontology: Triphalangeal thumb (HP:0001199)	1	0.280114	3.569975081573931	0.24603750792498416	skeleton
+Human_Phenotype_Ontology: Hepatomegaly (HP:0002240)	3	1.69975	1.7649654360935432	0.2467955064089872	digestive
+Human_Phenotype_Ontology: Fine hair (HP:0002213)	1	0.302112	3.3100307170850547	0.2475275049449901	integumentary
+Human_Phenotype_Ontology: Gastroesophageal reflux (HP:0002020)	1	0.284622	3.5134318499624064	0.24853750292499416	digestive
+Human_Phenotype_Ontology: Pulmonic stenosis (HP:0001642)	1	0.292396	3.4200194257103376	0.2537994924010152	cardiovascular
+Human_Phenotype_Ontology: Synophrys (HP:0000664)	1	0.295234	3.3871437571553416	0.25727948544102913	integumentary
+Human_Phenotype_Ontology: Asthma (HP:0002099)	1	0.300848	3.3239376695208214	0.2578034843930312	respiratory
+Human_Phenotype_Ontology: Brachycephaly (HP:0000248)	1	0.30396799999999996	3.2898199810506368	0.26036747926504145	skeleton
+Human_Phenotype_Ontology: Full cheeks (HP:0000293)	1	0.302854	3.301921057671353	0.2618314763370473	integumentary
+Human_Phenotype_Ontology: Omphalocele (HP:0001539)	1	0.326024	3.067258852109048	0.26338947322105355	digestive
+Human_Phenotype_Ontology: Retinopathy (HP:0000488)	1	0.32501199999999997	3.0768094716502774	0.2683354633290733	nervous
+Human_Phenotype_Ontology: Gingival overgrowth (HP:0000212)	1	0.335304	2.9823682389712025	0.2705554588890822	digestive
+Human_Phenotype_Ontology: Open mouth (HP:0000194)	1	0.315838	3.1661801303199737	0.2716434567130866	digestive
+Human_Phenotype_Ontology: Congenital diaphragmatic hernia (HP:0000776)	1	0.343986	2.9070950561941467	0.2721974556050888	skeletal muscle
+Human_Phenotype_Ontology: Neutropenia (HP:0001875)	1	0.322252	3.103161500937155	0.2726954546090908	immune
+Human_Phenotype_Ontology: Prominent forehead (HP:0011220)	1	0.318484	3.1398751585636955	0.27285345429309144	skeleton
+Human_Phenotype_Ontology: Small for gestational age (HP:0001518)	1	0.32272399999999996	3.098622971951265	0.272985454029092	other
+Human_Phenotype_Ontology: Intestinal malrotation (HP:0002566)	1	0.33067199999999997	3.024144771858518	0.27666544666910664	digestive
+Human_Phenotype_Ontology: Malar flattening (HP:0000272)	2	1.041212	1.9208384075481264	0.2793394413211174	skeleton
+Human_Phenotype_Ontology: Midface retrusion (HP:0011800)	1	0.33628	2.9737123825383613	0.2816734366531267	skeleton
+Human_Phenotype_Ontology: Arachnodactyly (HP:0001166)	1	0.333432	2.99911226277022	0.2827374345251309	skeleton
+Human_Phenotype_Ontology: Respiratory failure (HP:0002878)	1	0.33582199999999995	2.9777679842297413	0.28421743156513685	respiratory
+Human_Phenotype_Ontology: Myoclonus (HP:0001336)	1	0.339546	2.945109057388395	0.2885494229011542	nervous
+Human_Phenotype_Ontology: Retinal detachment (HP:0000541)	1	0.33918000000000004	2.948287045226724	0.28868742262515473	nervous
+Human_Phenotype_Ontology: Dementia (HP:0000726)	1	0.34639200000000003	2.886902699831405	0.29108141783716435	nervous
+Human_Phenotype_Ontology: Cerebellar hypoplasia (HP:0001321)	1	0.343538	2.91088613195629	0.2926034147931704	nervous
+Human_Phenotype_Ontology: Somatic mutation (HP:0001428)	1	0.34703	2.881595251131026	0.2928374143251713	other
+Human_Phenotype_Ontology: High palate (HP:0000218)	2	1.08517	1.8430292027977184	0.29499941000117996	skeleton
+Human_Phenotype_Ontology: Hypertelorism (HP:0000316)	3	1.901678	1.5775541390287946	0.29808740382519233	nervous
+Human_Phenotype_Ontology: Metabolic acidosis (HP:0001942)	1	0.361006	2.7700370630959044	0.3012293975412049	urinary
+Human_Phenotype_Ontology: Thick eyebrow (HP:0000574)	1	0.36448400000000003	2.743604657543267	0.30298539402921193	integumentary
+Human_Phenotype_Ontology: Neonatal hypotonia (HP:0001319)	1	0.373732	2.6757141481061293	0.3085513828972342	nervous
+Human_Phenotype_Ontology: Pyloric stenosis (HP:0002021)	1	0.373278	2.6789684899726214	0.3104833790332419	digestive
+Human_Phenotype_Ontology: Brachydactyly syndrome (HP:0001156)	2	1.1297979999999999	1.7702279522534117	0.3126133747732505	skeleton
+Human_Phenotype_Ontology: Hirsutism (HP:0001007)	1	0.37517	2.66545832555908	0.3145553708892582	integumentary
+Human_Phenotype_Ontology: Cheekbone underdevelopment (HP:0010669)	1	0.402508	2.484422669859978	0.3157273685452629	skeleton
+Human_Phenotype_Ontology: Hydronephrosis (HP:0000126)	1	0.390244	2.56249935937516	0.3198053603892792	urinary
+Human_Phenotype_Ontology: Dandy-Walker malformation (HP:0001305)	1	0.430098	2.3250514998907232	0.32170535658928684	nervous
+Human_Phenotype_Ontology: Short palm (HP:0004279)	1	0.396904	2.5195009372543486	0.32446535106929786	skeleton
+Human_Phenotype_Ontology: Recurrent urinary tract infections (HP:0000010)	1	0.42174799999999996	2.371084154518812	0.33037733924532153	immune
+Human_Phenotype_Ontology: Broad forehead (HP:0000337)	1	0.41779799999999995	2.3935011656350675	0.33130733738532525	skeleton
+Human_Phenotype_Ontology: Tetralogy of Fallot (HP:0001636)	1	0.42596000000000006	2.3476382758944503	0.3363893272213456	cardiovascular
+Human_Phenotype_Ontology: Narrow chest (HP:0000774)	1	0.43184399999999995	2.3156510221283613	0.3386773226453547	skeleton
+Human_Phenotype_Ontology: Pruritus (HP:0000989)	1	0.437716	2.284586352794963	0.3412133175733649	integumentary
+Human_Phenotype_Ontology: Nephrotic syndrome (HP:0000100)	1	0.453726	2.2039733231068968	0.35615328769342464	urinary
+Human_Phenotype_Ontology: Short philtrum (HP:0000322)	1	0.446928	2.2374968675043854	0.35635528728942545	integumentary
+Human_Phenotype_Ontology: Sloping forehead (HP:0000340)	1	0.448392	2.230191439633178	0.36366527266945453	skeleton
+Human_Phenotype_Ontology: Long face (HP:0000276)	1	0.479074	2.0873601990506687	0.3650392699214601	skeleton
+Human_Phenotype_Ontology: Migraine (HP:0002076)	1	0.46015200000000006	2.173194944279281	0.3657692684614631	nervous
+Human_Phenotype_Ontology: Vesicoureteral reflux (HP:0000076)	1	0.512948	1.9495153504838696	0.3865732268535463	urinary
+Human_Phenotype_Ontology: Depressed nasal bridge (HP:0005280)	2	1.38927	1.4396049723955746	0.40184119631760734	skeleton
+Human_Phenotype_Ontology: Postaxial hand polydactyly (HP:0001162)	1	0.541222	1.8476706416221071	0.4024131951736096	skeleton
+Human_Phenotype_Ontology: Pes planus (HP:0001763)	1	0.532452	1.8781035661430512	0.40285719428561145	skeleton
+Human_Phenotype_Ontology: Microcornea (HP:0000482)	1	0.52585	1.9016829894456595	0.4056151887696224	nervous
+Human_Phenotype_Ontology: Wide mouth (HP:0000154)	1	0.557362	1.7941660895432412	0.40646518706962587	digestive
+Human_Phenotype_Ontology: Slow progression (HP:0003677)	1	0.521352	1.9180898893645748	0.4086071827856344	other
+Human_Phenotype_Ontology: Single transverse palmar crease (HP:0000954)	1	0.5294800000000001	1.888645463473597	0.40865918268163465	integumentary
+Human_Phenotype_Ontology: Arthralgia (HP:0002829)	1	0.565048	1.7697611530347863	0.4090531818936362	skeleton
+Human_Phenotype_Ontology: X-linked recessive inheritance (HP:0001419)	1	0.646752	1.5461877195586562	0.4091851816296368	other
+Human_Phenotype_Ontology: Dry skin (HP:0000958)	1	0.552078	1.8113382529280284	0.4092811814376371	integumentary
+Human_Phenotype_Ontology: Mandibular prognathia (HP:0000303)	1	0.568886	1.7578214264369312	0.4195651608696783	skeleton
+Human_Phenotype_Ontology: Lactic acidosis (HP:0003128)	1	0.5606359999999999	1.7836885251749797	0.4214391571216858	urinary
+Human_Phenotype_Ontology: Epicanthus (HP:0000286)	2	1.457496	1.372216458913095	0.42145915708168585	integumentary
+Human_Phenotype_Ontology: Hypoplasia of the corpus callosum (HP:0002079)	1	0.576998	1.7331082603405903	0.42483315033369934	nervous
+Human_Phenotype_Ontology: Prominent nasal bridge (HP:0000426)	1	0.582218	1.7175697075665814	0.4290511418977162	skeleton
+Human_Phenotype_Ontology: Elevated hepatic transaminases (HP:0002910)	1	0.5797	1.7250301880282906	0.4352971294057412	digestive
+Human_Phenotype_Ontology: Polyhydramnios (HP:0001561)	1	0.602102	1.6608481619393392	0.4363271273457453	reproductive
+Human_Phenotype_Ontology: Iris coloboma (HP:0000612)	1	0.586616	1.7046926780040093	0.4365151269697461	nervous
+Human_Phenotype_Ontology: Delayed eruption of teeth (HP:0000684)	1	0.608012	1.6447043808345887	0.4469691060617879	skeleton
+Human_Phenotype_Ontology: Hypothyroidism (HP:0000821)	1	0.631548	1.5834109204684363	0.4494691010617979	endocrine
+Human_Phenotype_Ontology: Low-set, posteriorly rotated ears (HP:0000368)	2	1.614724	1.2386017672370015	0.4695090609818781	integumentary
+Human_Phenotype_Ontology: Blepharophimosis (HP:0000581)	1	0.65074	1.5367120508959031	0.4734030531938936	integumentary
+Human_Phenotype_Ontology: Camptodactyly of finger (HP:0100490)	1	0.670138	1.492229958605541	0.4739470521058958	skeleton
+Human_Phenotype_Ontology: Abnormality of the fingernails (HP:0001231)	1	0.732226	1.3656985684747605	0.4763390473219054	integumentary
+Human_Phenotype_Ontology: Autism (HP:0000717)	1	0.668324	1.4962802473051993	0.4765990468019064	psychiatric
+Human_Phenotype_Ontology: Opacification of the corneal stroma (HP:0007759)	1	0.707802	1.4128244904648477	0.4882750234499531	nervous
+Human_Phenotype_Ontology: Developmental regression (HP:0002376)	1	0.696878	1.4349714010199777	0.4889070221859556	nervous
+Human_Phenotype_Ontology: Macrotia (HP:0000400)	1	0.6945100000000001	1.4398640768311473	0.494503010993978	integumentary
+Human_Phenotype_Ontology: Patent ductus arteriosus (HP:0001643)	1	0.735212	1.3601519017643893	0.5094709810580379	cardiovascular
+Human_Phenotype_Ontology: Congenital onset (HP:0003577)	1	0.7769199999999999	1.2871338104309322	0.5317109365781268	other
+Human_Phenotype_Ontology: Cerebral cortical atrophy (HP:0002120)	1	0.7842100000000001	1.2751686410527794	0.539518920962158	nervous
+Human_Phenotype_Ontology: Heterogeneous (HP:0001425)	1	0.794176	1.259166733822226	0.5448049103901792	other
+Human_Phenotype_Ontology: Delayed skeletal maturation (HP:0002750)	1	0.8288719999999999	1.2064588983582507	0.5472309055381889	skeleton
+Human_Phenotype_Ontology: Umbilical hernia (HP:0001537)	1	0.940796	1.0629296893269105	0.5849408301183397	skeletal muscle
+Human_Phenotype_Ontology: Short neck (HP:0000470)	1	0.9947860000000001	1.0052413282856816	0.6196807606384788	skeleton
+Human_Phenotype_Ontology: Autosomal dominant inheritance (HP:0000006)	6	6.6276600000000006	0.9052968921157694	0.6386647226705546	other
+Human_Phenotype_Ontology: Downslanted palpebral fissures (HP:0000494)	1	1.094078	0.9140116152596066	0.6506246987506025	integumentary
+Human_Phenotype_Ontology: Hydrocephalus (HP:0000238)	1	1.061588	0.9419850262060234	0.6509246981506037	nervous
+Human_Phenotype_Ontology: Dysarthria (HP:0001260)	1	1.0685639999999998	0.9358353828128216	0.6587666824666351	nervous
+Human_Phenotype_Ontology: Infantile onset (HP:0003593)	1	1.333756	0.7497623253428664	0.7186245627508745	other
+Human_Phenotype_Ontology: Ptosis (HP:0000508)	1	1.752284	0.5706837476116885	0.815504368991262	skeletal muscle
